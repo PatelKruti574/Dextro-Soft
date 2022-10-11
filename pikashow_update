@@ -1,0 +1,54 @@
+{
+"STATUS":true,
+   "MSG":"",
+   "onback_adshow":"",
+   "APP_SETTINGS":{
+      "app_privacyPolicyLink":"",
+      "app_adShowStatus":"1"
+   },
+   "PLACEMENT":{
+      "Admob":{
+         "ad_showAdStatus":"",
+          "AppID":" ",
+         "Banner1":" ",
+         "Interstitial1":" ",
+         "Native1":" ",
+         "Native_baner":" ",
+          "AppOpen1":" "
+      },
+      "Facebookaudiencenetwork":{
+         "ad_showAdStatus":"",
+          "Banner1":"",
+         "Interstitial1":"",
+         "Interstitial2":"",
+         "Interstitial3":"",
+         "Interstitial4":"",
+         "Interstitial5":"",
+         "Interstitial6":"",
+         "Interstitial7":"",
+         "Interstitial8":"",
+         "Interstitial_exit":"",
+         "Interstitial_exit1":"",
+         "Interstitial_exit2":"",  
+         "Interstitial_exit3":"",
+         "Interstitial_exit4":"",
+         "Interstitial_exit5":"",
+         "Native1":"",
+          "NativeBanner1":""
+      },
+      "Unity":{
+         "ad_showAdStatus":"",
+          "AppID":" "
+      },
+       "applovin":{
+         "ad_showAdStatus":"1",
+          "applovin_intretial":"9df798540013612f",
+            "applovin_baner":"3a42c11fca2cca40",
+              "applovin_native":"fc56a4a7f1df8611"
+      },
+      "QurekaLite":{
+         "ad_showAdStatus":"1",
+          "AppID":"https://336.set.qureka.com/"
+      }
+   }
+   }
